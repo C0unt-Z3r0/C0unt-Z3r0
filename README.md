@@ -1,5 +1,3 @@
-# ⚡ README GitHub — Estilo Dark Minimalista Profissional
-
 ```txt
  ██████╗ ██████╗ ██╗   ██╗███╗   ██╗████████╗███████╗███████╗██████╗  ██████╗ 
 ██╔════╝██╔═████╗██║   ██║████╗  ██║╚══██╔══╝╚══███╔╝██╔════╝██╔══██╗██╔═══██╗
@@ -7,16 +5,6 @@
 ██║     ████╔╝██║██║   ██║██║╚██╗██║   ██║    ███╔╝  ██╔══╝  ██╔══██╗██║   ██║
 ╚██████╗╚██████╔╝╚██████╔╝██║ ╚████║   ██║   ███████╗███████╗██║  ██║╚██████╔╝
  ╚═════╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═══╝   ╚═╝   ╚══════╝╚══════╝╚═╝  ╚═╝ ╚═════╝ 
-```
-
----
-
-# Hey there! 👋 I'm C0untZ3r0.
-
-```txt
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-        UPDATE • 2026 • CYBERSECURITY
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
 <div align="center">
@@ -92,58 +80,6 @@ ISC2 • Security+ • Linux • SIEM • Networking • SOC • Pentest
 </div>
 
 ---
-
-# 🧠 Current Focus
-
-* Building security labs
-* Studying SOC workflows
-* Linux hardening
-* Detection engineering
-* Python automation for cybersecurity
-* Threat intelligence
-
----
-
-# 🚨 Featured Projects
-
-## 🔥 Offensive Security
-
-* Web Pentest Labs
-* Recon Automation
-* Network Enumeration Toolkit
-* OSINT Scripts
-
-## 🛡 Defensive Security
-
-* Log Analysis
-* SIEM Simulations
-* Detection Rules
-* Incident Response Labs
-
-## ⚡ Automation
-
-* Python Security Tools
-* Bash Scripts
-* Linux Utilities
-* Monitoring Scripts
-
----
-
-# 📡 Terminal Aesthetic
-
-```bash
-┌──(c0untz3r0㉿root)-[~/cybersecurity]
-└─$ sudo monitor --threats --verbose
-
-[+] Monitoring packets...
-[+] Checking anomalies...
-[+] Threat intelligence loaded...
-[+] Defensive systems online...
-```
-
----
-
-# 🌌 Cyberpunk Divider
 
 ```txt
 ═══════════════════════════════════════════════════════
