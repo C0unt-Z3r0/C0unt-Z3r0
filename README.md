@@ -156,9 +156,7 @@ ISC2 • Security+ • Linux • SIEM • Networking • SOC • Pentest
 # 📫 Contact
 
 ```yaml
-LinkedIn: your-linkedin
-Email: your-email
-GitHub: github.com/SEU_USUARIO
+
 ```
 
 ---
