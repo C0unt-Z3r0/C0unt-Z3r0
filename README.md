@@ -1,4 +1,3 @@
-# ⚡ README GitHub — Estilo Dark Minimalista Profissional
 
 ```txt
  ██████╗ ██████╗ ██╗   ██╗███╗   ██╗████████╗███████╗███████╗██████╗  ██████╗ 
